@@ -1,17 +1,20 @@
-# Jiayi Li Academic Homepage (Tri-lingual)
+# Jiayi Li Academic Homepage
 
-Files:
-- index.html
-- styles.css
-- script.js
-- photo-placeholder.svg
+This repository contains the GitHub Pages website for Jiayi Li.
 
-## Deploy to GitHub Pages
-1. Create a new GitHub repository.
-2. Upload all files to the repository root.
-3. Open Settings -> Pages.
-4. Choose the main branch and /root.
-5. Save.
+## Deploy
+Push the contents of this repository to the `main` branch of `Rirock.github.io`.
 
-## Replace the profile photo
-Replace `photo-placeholder.svg` with your own portrait photo, or edit the image path in `index.html`.
+## SEO included
+- Search-friendly page title and description
+- Canonical URL
+- Open Graph / Twitter meta tags
+- Structured data (schema.org Person)
+- `robots.txt`
+- `sitemap.xml`
+
+## After deploy
+1. Open Google Search Console
+2. Add `https://rirock.github.io/`
+3. Submit `https://rirock.github.io/sitemap.xml`
+4. Request indexing for the homepage URL

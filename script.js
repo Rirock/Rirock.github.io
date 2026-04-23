@@ -1,1 +1,147 @@
-const translations = { "en": { "title": "Assistant Professor", "affiliationShort": "Ritsumeikan University", "emailLabel": "Email", "scholarLabel": "Scholar", "githubLabel": "GitHub", "labLabel": "Lab", "photoNote": "Replace photo-placeholder.svg with your own portrait photo later if needed.", "eyebrow": "Welcome to Jiayi LI's Homepage!", "headline": "Research in molecular AI, brain-inspired neural networks, and computational intelligence", "lead": "I am an Assistant Professor in the Intelligent Systems Planning Laboratory, College of Information Science and Engineering, Ritsumeikan University. My work focuses on brain-inspired neural networks, molecular property prediction, drug discovery AI, large language models, and computational intelligence.", "navAbout": "About", "navResearch": "Research", "navEmployment": "Employment", "navEducation": "Education", "navPublications": "Publications", "navAwards": "Awards", "navContact": "Contact", "aboutHeading": "About", "aboutBody": "Jiayi Li is an Assistant Professor at Ritsumeikan University. His research interests include brain-inspired neural networks and their applications in medical diagnosis and drug discovery, as well as large language models and computational intelligence.", "researchHeading": "Research Interests", "research1": "Brain-inspired neural networks and their applications in medical diagnosis and drug discovery", "research2": "Large language models and computational intelligence", "research3": "Molecular property prediction and multimodal molecular representation learning", "employmentHeading": "Employment", "employment1": "<strong>April 2026–Present</strong>, Assistant Professor, Ritsumeikan University, Osaka, Japan", "employment2": "<strong>2023–2026</strong>, Research Assistant (Part-time), University of Toyama, Faculty of Engineering, Toyama, Japan", "educationHeading": "Education", "education1": "<strong>2023–2026</strong>, Doctor of Engineering, Biological Information Systems, University of Toyama", "education2": "<strong>2021–2023</strong>, Master of Engineering, Intellectual Information Systems, University of Toyama", "education3": "<strong>2016–2020</strong>, Bachelor of Science, Computer Science and Technology, Beijing University of Civil Engineering and Architecture", "publicationsHeading": "Publications", "journalHeading": "Journal Papers", "confHeading": "International Conferences", "awardsHeading": "Honors and Awards", "contactHeading": "Contact", "contactEmail": "Email:", "contactAffiliation": "Affiliation:", "contactAffiliationValue": "Intelligent Systems Planning Laboratory, College of Information Science and Engineering, Ritsumeikan University", "contactAddress": "Address:", "footerText": "Last updated: April 2026" }, "zh": { "title": "助理教授", "affiliationShort": "立命馆大学", "emailLabel": "邮箱", "scholarLabel": "学术主页", "githubLabel": "GitHub", "labLabel": "实验室", "photoNote": "后续可将 photo-placeholder.svg 替换为你的个人照片。", "eyebrow": "个人学术主页", "headline": "分子人工智能、仿脑神经网络与计算智能研究", "lead": "我现任立命馆大学信息理工学部智能系统规划实验室助理教授。研究方向包括仿脑神经网络、分子性质预测、药物发现人工智能、大语言模型与计算智能。", "navAbout": "简介", "navResearch": "研究方向", "navEmployment": "工作经历", "navEducation": "教育背景", "navPublications": "论文发表", "navAwards": "获奖荣誉", "navContact": "联系方式", "aboutHeading": "个人简介", "aboutBody": "李加一现任立命馆大学助理教授，研究兴趣包括仿脑神经网络及其在医学诊断与药物发现中的应用，以及大语言模型与计算智能。", "researchHeading": "研究方向", "research1": "仿脑神经网络及其在医学诊断与药物发现中的应用", "research2": "大语言模型与计算智能", "research3": "分子性质预测与多模态分子表征学习", "employmentHeading": "工作经历", "employment1": "<strong>2026年4月–至今</strong>，助理教授，立命馆大学，日本大阪", "employment2": "<strong>2023–2026</strong>，研究助理（兼职），富山大学工学部，日本富山", "educationHeading": "教育背景", "education1": "<strong>2023–2026</strong>，工学博士，生物信息系统，富山大学", "education2": "<strong>2021–2023</strong>，工学硕士，智能信息系统，富山大学", "education3": "<strong>2016–2020</strong>，理学学士，计算机科学与技术，北京建筑大学", "publicationsHeading": "论文发表", "journalHeading": "期刊论文", "confHeading": "国际会议论文", "awardsHeading": "获奖与荣誉", "contactHeading": "联系方式", "contactEmail": "邮箱：", "contactAffiliation": "单位：", "contactAffiliationValue": "立命馆大学信息理工学部 智能系统规划实验室", "contactAddress": "地址：", "footerText": "最后更新：2026年4月" }, "ja": { "title": "助教", "affiliationShort": "立命館大学", "emailLabel": "メール", "scholarLabel": "研究業績", "githubLabel": "GitHub", "labLabel": "研究室", "photoNote": "必要に応じて、後で photo-placeholder.svg をご自身の写真に差し替えできます。", "eyebrow": "研究者ホームページ", "headline": "分子AI・脳型ニューラルネットワーク・計算知能に関する研究", "lead": "立命館大学情報理工学部・知能システム計画研究室に所属する助教です。脳型ニューラルネットワーク、分子物性予測、創薬AI、大規模言語モデル、計算知能を中心に研究しています。", "navAbout": "プロフィール", "navResearch": "研究分野", "navEmployment": "職歴", "navEducation": "学歴", "navPublications": "論文", "navAwards": "受賞", "navContact": "連絡先", "aboutHeading": "プロフィール", "aboutBody": "李 加一は立命館大学の助教です。研究関心は、脳型ニューラルネットワークとその医用診断・創薬への応用、ならびに大規模言語モデルと計算知能です。", "researchHeading": "研究分野", "research1": "脳型ニューラルネットワークとその医用診断・創薬への応用", "research2": "大規模言語モデルと計算知能", "research3": "分子物性予測およびマルチモーダル分子表現学習", "employmentHeading": "職歴", "employment1": "<strong>2026年4月–現在</strong>，助教，立命館大学（大阪，日本）", "employment2": "<strong>2023–2026</strong>，研究補佐員（非常勤），富山大学工学部（富山，日本）", "educationHeading": "学歴", "education1": "<strong>2023–2026</strong>，博士（工学），生物情報システム，富山大学", "education2": "<strong>2021–2023</strong>，修士（工学），知能情報システム，富山大学", "education3": "<strong>2016–2020</strong>，学士（理学），計算機科学技術，北京建築大学", "publicationsHeading": "論文", "journalHeading": "学術雑誌論文", "confHeading": "国際会議論文", "awardsHeading": "受賞・表彰", "contactHeading": "連絡先", "contactEmail": "メール：", "contactAffiliation": "所属：", "contactAffiliationValue": "立命館大学 情報理工学部 知能システム計画研究室", "contactAddress": "住所：", "footerText": "最終更新：2026年4月" } }; function setLanguage(lang) { const dict = translations[lang] || translations.en; document.documentElement.lang = lang; document.querySelectorAll('[data-i18n]').forEach(el => { const key = el.getAttribute('data-i18n'); if (dict[key]) el.innerHTML = dict[key]; }); document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.lang === lang)); localStorage.setItem('homepage_lang', lang); } document.querySelectorAll('.lang-btn').forEach(btn => btn.addEventListener('click', () => setLanguage(btn.dataset.lang))); setLanguage(localStorage.getItem('homepage_lang') || 'en');
+const translations = {
+  "en": {
+    "title": "Assistant Professor",
+    "affiliationShort": "Ritsumeikan University",
+    "emailLabel": "Email",
+    "scholarLabel": "Scholar",
+    "githubLabel": "GitHub",
+    "labLabel": "Lab",
+    "eyebrow": "Welcome to Jiayi Li's academic homepage",
+    "headline": "Research in AI for drug discovery, molecular modeling, multimodal learning, and brain-inspired neural networks",
+    "lead": "I am an Assistant Professor in the Intelligent Systems Planning Laboratory, College of Information Science and Engineering, Ritsumeikan University. My research focuses on AI for drug discovery, molecular property prediction, activity cliffs, multimodal molecular learning, large language models, and brain-inspired neural networks.",
+    "navAbout": "About",
+    "navResearch": "Research",
+    "navEmployment": "Employment",
+    "navEducation": "Education",
+    "navPublications": "Publications",
+    "navAwards": "Awards",
+    "navContact": "Contact",
+    "aboutHeading": "About",
+    "aboutBody": "Jiayi Li is an Assistant Professor at Ritsumeikan University. His research interests include AI for drug discovery, molecular property prediction, activity cliffs, multimodal molecular representation learning, brain-inspired neural networks, and large language models.",
+    "researchHeading": "Research Interests",
+    "research1": "AI for drug discovery and molecular property prediction",
+    "research2": "Activity cliffs and complex structure-property relationships",
+    "research3": "Multimodal molecular representation learning with SMILES, graphs, and fingerprints",
+    "research4": "Brain-inspired neural networks and computational intelligence",
+    "research5": "Large language models for scientific discovery",
+    "employmentHeading": "Employment",
+    "employment1": "<strong>April 2026–Present</strong>, Assistant Professor, Ritsumeikan University, Osaka, Japan",
+    "employment2": "<strong>2023–2026</strong>, Research Assistant (Part-time), University of Toyama, Faculty of Engineering, Toyama, Japan",
+    "educationHeading": "Education",
+    "education1": "<strong>2023–2026</strong>, Doctor of Engineering, Biological Information Systems, University of Toyama",
+    "education2": "<strong>2021–2023</strong>, Master of Engineering, Intellectual Information Systems, University of Toyama",
+    "education3": "<strong>2016–2020</strong>, Bachelor of Science, Computer Science and Technology, Beijing University of Civil Engineering and Architecture",
+    "publicationsHeading": "Publications",
+    "publicationsIntro": "Selected publications are listed below. For a complete publication list, please visit my Google Scholar profile.",
+    "journalHeading": "Journal Papers",
+    "awardsHeading": "Honors and Awards",
+    "contactHeading": "Contact",
+    "contactEmail": "Email:",
+    "contactAffiliation": "Affiliation:",
+    "contactAffiliationValue": "Intelligent Systems Planning Laboratory, College of Information Science and Engineering, Ritsumeikan University",
+    "footerText": "Last updated: April 2026"
+  },
+  "zh": {
+    "title": "助理教授",
+    "affiliationShort": "立命馆大学",
+    "emailLabel": "邮箱",
+    "scholarLabel": "学术主页",
+    "githubLabel": "GitHub",
+    "labLabel": "实验室",
+    "eyebrow": "李加一个人学术主页",
+    "headline": "面向药物发现人工智能、分子建模、多模态学习与仿脑神经网络的研究",
+    "lead": "我现任立命馆大学信息理工学部智能系统规划实验室助理教授。研究方向包括药物发现人工智能、分子性质预测、activity cliffs、多模态分子学习、大语言模型与仿脑神经网络。",
+    "navAbout": "简介",
+    "navResearch": "研究方向",
+    "navEmployment": "工作经历",
+    "navEducation": "教育背景",
+    "navPublications": "论文发表",
+    "navAwards": "获奖荣誉",
+    "navContact": "联系方式",
+    "aboutHeading": "个人简介",
+    "aboutBody": "李加一现任立命馆大学助理教授，研究兴趣包括药物发现人工智能、分子性质预测、activity cliffs、多模态分子表征学习、仿脑神经网络与大语言模型。",
+    "researchHeading": "研究方向",
+    "research1": "药物发现人工智能与分子性质预测",
+    "research2": "Activity cliffs 与复杂结构-性质关系建模",
+    "research3": "基于 SMILES、分子图与分子指纹的多模态分子表征学习",
+    "research4": "仿脑神经网络与计算智能",
+    "research5": "面向科学发现的大语言模型",
+    "employmentHeading": "工作经历",
+    "employment1": "<strong>2026年4月–至今</strong>，助理教授，立命馆大学，日本大阪",
+    "employment2": "<strong>2023–2026</strong>，研究助理（兼职），富山大学工学部，日本富山",
+    "educationHeading": "教育背景",
+    "education1": "<strong>2023–2026</strong>，工学博士，生物信息系统，富山大学",
+    "education2": "<strong>2021–2023</strong>，工学硕士，智能信息系统，富山大学",
+    "education3": "<strong>2016–2020</strong>，理学学士，计算机科学与技术，北京建筑大学",
+    "publicationsHeading": "论文发表",
+    "publicationsIntro": "下方为部分论文信息，完整列表请查看 Google Scholar。",
+    "journalHeading": "期刊论文",
+    "awardsHeading": "获奖与荣誉",
+    "contactHeading": "联系方式",
+    "contactEmail": "邮箱：",
+    "contactAffiliation": "单位：",
+    "contactAffiliationValue": "立命馆大学信息理工学部 智能系统规划实验室",
+    "footerText": "最后更新：2026年4月"
+  },
+  "ja": {
+    "title": "助教",
+    "affiliationShort": "立命館大学",
+    "emailLabel": "メール",
+    "scholarLabel": "研究業績",
+    "githubLabel": "GitHub",
+    "labLabel": "研究室",
+    "eyebrow": "李加一の研究者ホームページ",
+    "headline": "創薬AI・分子モデリング・マルチモーダル学習・脳型ニューラルネットワークに関する研究",
+    "lead": "立命館大学情報理工学部・知能システム計画研究室に所属する助教です。創薬AI、分子物性予測、activity cliffs、マルチモーダル分子学習、大規模言語モデル、脳型ニューラルネットワークを中心に研究しています。",
+    "navAbout": "プロフィール",
+    "navResearch": "研究分野",
+    "navEmployment": "職歴",
+    "navEducation": "学歴",
+    "navPublications": "論文",
+    "navAwards": "受賞",
+    "navContact": "連絡先",
+    "aboutHeading": "プロフィール",
+    "aboutBody": "李 加一は立命館大学の助教です。研究関心は、創薬AI、分子物性予測、activity cliffs、マルチモーダル分子表現学習、脳型ニューラルネットワーク、大規模言語モデルです。",
+    "researchHeading": "研究分野",
+    "research1": "創薬AIおよび分子物性予測",
+    "research2": "Activity cliffs と複雑な構造–物性関係のモデリング",
+    "research3": "SMILES・分子グラフ・フィンガープリントを用いたマルチモーダル分子表現学習",
+    "research4": "脳型ニューラルネットワークと計算知能",
+    "research5": "科学発見のための大規模言語モデル",
+    "employmentHeading": "職歴",
+    "employment1": "<strong>2026年4月–現在</strong>，助教，立命館大学（大阪，日本）",
+    "employment2": "<strong>2023–2026</strong>，研究補佐員（非常勤），富山大学工学部（富山，日本）",
+    "educationHeading": "学歴",
+    "education1": "<strong>2023–2026</strong>，博士（工学），生物情報システム，富山大学",
+    "education2": "<strong>2021–2023</strong>，修士（工学），知能情報システム，富山大学",
+    "education3": "<strong>2016–2020</strong>，学士（理学），計算機科学技術，北京建築大学",
+    "publicationsHeading": "論文",
+    "publicationsIntro": "主要論文を掲載しています。完全な業績一覧は Google Scholar をご覧ください。",
+    "journalHeading": "学術雑誌論文",
+    "awardsHeading": "受賞・表彰",
+    "contactHeading": "連絡先",
+    "contactEmail": "メール：",
+    "contactAffiliation": "所属：",
+    "contactAffiliationValue": "立命館大学 情報理工学部 知能システム計画研究室",
+    "footerText": "最終更新：2026年4月"
+  }
+};
+
+function setLanguage(lang) {
+  const dict = translations[lang] || translations.en;
+  document.documentElement.lang = lang;
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const key = el.getAttribute('data-i18n');
+    if (dict[key]) el.innerHTML = dict[key];
+  });
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
+  localStorage.setItem('homepage_lang', lang);
+}
+
+document.querySelectorAll('.lang-btn').forEach(btn => {
+  btn.addEventListener('click', () => setLanguage(btn.dataset.lang));
+});
+
+setLanguage(localStorage.getItem('homepage_lang') || 'en');

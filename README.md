@@ -1,3 +1,6 @@
-# Jiayi Li Academic Homepage
+# Jiayi Li (李加一)
 
-This repository contains the GitHub Pages website for Jiayi Li.
+Assistant Professor, Ritsumeikan University  
+Research: AI for Drug Discovery, Molecular Modeling, Activity Cliffs  
+
+🌐 Homepage: https://rirock.github.io/
